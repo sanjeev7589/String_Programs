@@ -8,7 +8,7 @@ public static void main(String[]args)
 {
 	noofeachchar n = new noofeachchar();
 	String s = "Java J2EE Java JSP J2EE";
-	//n.normal(s);
+	n.normal(s);
 	n.collection(s);
 }
 void normal(String s)
